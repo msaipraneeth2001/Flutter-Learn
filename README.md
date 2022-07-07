@@ -2,7 +2,7 @@
 
  **Prerequisites**
 
- These are the list of things you need to install these softwares.
+ List of softwares you need to install.
  
  * [Flutter](http://flutter.dev/)
  * [Android studio](https://developer.android.com/studio)
